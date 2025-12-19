@@ -26,7 +26,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/agrawal-2005/PolicyFinder.git
+   git clone https://github.com/SHIRSHAK96/PolicyFinder.git
    cd PolicyFinder
 
 2. **Install dependencies**
@@ -54,5 +54,5 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙌 Contributors
 
-* **Prashant Agrawal** – FullStack Developer
-* More info available on [LinkedIn](https://www.linkedin.com/in/pr-shant26/)
+* **Shirshak Mandal** – FullStack Developer
+* More info available on [LinkedIn](https://www.linkedin.com/in/shirshak-mandal-99474a282/)
